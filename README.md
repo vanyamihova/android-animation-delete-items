@@ -1,4 +1,4 @@
-# homework-lecture-8.1
+# Animation delete items
 
 Delete item from RecyclerView with animation.
 
